@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Rubik
+}
+
+table, td {
+    border: 1px solid black;
+}
+
+td {
+    padding: 10px;
+}
